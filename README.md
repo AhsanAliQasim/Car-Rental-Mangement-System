@@ -24,14 +24,14 @@ The objectives outlined above guide the development process, ensuring that the s
 **Features**
 
 Following are some of the key features of Car Rental Management System.
-User friendly interfaces.
+**User friendly interfaces.
 Simple and easy to use.
 Categorization of Vehicles.
 Filter options to refine search results.
 Easy access for both, Manager and Renter.
 Convenient for Manager to manage Car Inventory and monitor renter requests.
 Online renting of Cars.
-Secure user authentication.
+Secure user authentication.**
 
 **Benefits**
 
