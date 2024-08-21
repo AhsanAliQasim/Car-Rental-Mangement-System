@@ -1,0 +1,10 @@
+22#Suzuki#Cultus#2010#5000#Available
+23#Daihatsu#Mira#2015#6000#Available
+24#Toyota#Vitz#2009#7000#Available
+25#Suzuki#WagonR#2015#4500#Available
+26#Toyota#Aqua#2015#7500#Available
+27#Suzuki#Mehran#2005#2500#NotAvailable
+28#Suzuki#Alto#2005#3000#Not Available
+29#Suzuki#Swift#2020#4500#NotAvailable
+30#Kia#Picanto#2019#4200#NotAvailable
+31#Hyundai#Santro#2001#2400#Not Available
